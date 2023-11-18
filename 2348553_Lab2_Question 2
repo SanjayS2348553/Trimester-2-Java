@@ -37,7 +37,7 @@ class Profit {
 
 	public static void main(String args[])
 	{
-		int price[] = { 2, 30, 15, 9, 8, 25, 75 };
+		int price[] = {10, 22, 5, 75, 65, 80};
 		int n = price.length;
 		System.out.println("Maximum Profit = "
 						+ maxProfit(price, n));
