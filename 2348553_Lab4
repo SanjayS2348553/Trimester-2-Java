@@ -1,4 +1,4 @@
-bstract class Robber
+abstract class Robber
 {
     abstract int Rowhouses(int x[]);
     abstract int Roundhouses(int x[]);
